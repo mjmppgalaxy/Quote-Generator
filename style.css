@@ -1,0 +1,45 @@
+body {
+    background-color: #42bcf4;
+    width: 100%;
+    margin-top: 80px;
+}
+
+.box { 
+  background-color: #fff;
+  border-radius: 12px;
+  padding: 60px;
+  margin: 0 auto;
+  max-width: 50%;
+  font-family: Lora;
+}
+
+button {
+    background-color: #5AC4D9;
+    color: white;
+    margin-top: 30px;
+    padding: 15px 34px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.twitter {
+    font-size: 1.6em;
+}
+#new-quote{
+    float: right;
+    font-size: 20px;
+}
+
+h1{
+    text-align: center;
+    text-transform: uppercase; 
+    color:#fff;
+    font-size: 35px;
+}
+
+h2{
+    font-size: 23px;
+    text-align: center;
+}
